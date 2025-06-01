@@ -105,6 +105,13 @@ header {
   text-decoration: none;
 }
 
+  .archive-content .archive-year {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2rem 0 0 0; 
+    text-align: center;
+  }
+
 /* --------------------------------------------------------- */
 
 .hamburger-menu {
@@ -261,4 +268,11 @@ header {
     font-size: 1rem;
   }
 
+  .archive-title a {
+    font-size: 1.5rem;
+  }
+
+  .archive-content .archive-year {
+    font-size: 2rem;
+  }
 }

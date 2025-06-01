@@ -1,4 +1,4 @@
-baseURL      = 'http://shawndo.net/'
+baseURL      = 'https://shawndo.com/'
 languageCode = 'en-us'
 title        = 'ShawnDo'
 theme        = 'shawndo_2025'
