@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+  <div class="container">
+    <div class="post-container">
+          <div class="archive-title"><a href="/">{{ .Title }}</a></div>
+          <div class="archive-content">
+{{ .Content }}
+<ul>
+{{- range.Pages }}
+<li>
+  {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time>  {{ end -}}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{- if .Param "authorsinlist" }}
+      {{ with .Params.authors }}
+      by 
+      {{ delimit . ", " " and " }}
+      {{end}}
+  {{ end -}}
+</li>
+{{- end }}
+</ul>
+          </div>
+    </div>
+  </div>
+{{ end }}

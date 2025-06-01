@@ -1,0 +1,24 @@
+---
+title: Watch Obsession is Passing; New New Job
+author: shawndo
+type: post
+date: 2007-03-17T19:12:50+00:00
+url: /2007/03/17/watch-obsession-is-passing-new-new-job
+categories:
+  - Journal
+
+---
+![](/images/2007/03/20070312-brownsville.jpg)
+
+With the purchase of the Panerai in January, my lust for all-things watches has calmed down.  I love this watch so much that I have no desire to even browse for others.  I’m wearing this everyday, unless I want to get a little bit dressier.  Then I pull out the IWC.  I still check the forums every once in a while, and might pick up a magazine if I happen to see one.  This is much different than reading all the forums every morning, and keeping up with every post, waiting for every magazine to come out every month, then rushing to the book store.  Fairly abrupt attention span I suppose.  
+
+I didn’t write anything on the job front for a while because I expected there might be some turbulence.  I didn’t worry about not finding a job until after the New Year, because it seems that’s how corporate budgets work.  Also, many people in corporations (especially in NYC) seem to move around right after bonuses get paid out.  Around the February time frame.  I interviewed at two places in January, Moody’s Investors Service and BNP Paribas.  
+
+I preferred BNP from the beginning.  The team seemed to be composed of people in my general demographic.  It was an actual Storage team, with disk and backups in the same team.  They were migrating to TSM, so the TSM environment was still “virgin” and I could build and automate “in my image”.  Last but not least, the money was much more competitive compared to what Moody’s offered.   Unfortunately, they told me right off the bat, that I was the first person they interviewed and they wanted to interview a few more people.  After some time passed, I started second-guessing my interview performance. Even though the headhunter kept saying I was still in the running, and that they were busy with all these other things, after 3 weeks with no word, I decided to not keep my hopes up.  
+
+During this time I interviewed at Moody’s.  Moody’s is a great old-time company.  They had superb benefits and great people.  Unfortunately, they were looking for a junior TSM admin (I.E. Not a competitive salary at all).  Their environment has been running for a long time, managed by an extremely experienced administrator (now manager) who basically got it to the point that almost nothing had to be done.  The group also managed the Control-M scheduling application as well as a number of other non-storage related tasks.  I aced this interview, and they sent me an offer very quickly.  I would still be able to live in NYC on this money, but I would have to seriously budget, and I didn’t know if I could continue my long-term investment goals.  Because of BNP not working out, I took the job an started on Feb 5th.  I was learning Control-M quickly and actually enjoyed the product.  I don’t think I can ever be an advocate for cron again!  I enrolled in all the healthcare, 401k, ESPP stuff that I could and prepared to make this a long-term situation.  I let them know what I had a prior obligation to attend a friend’s wedding, and they were completely fine with that.  Like I said, great people.  
+Out of the blue on March 2, the BNP headhunter called me up saying that things might move forward with BNP.  I was still in the running, after a month and a half, and they were planning on taking even more time.  However, 3 of their 5 storage people decided to leave at the same time.  All relocating, coincidentally, after receiving their bonuses.  They were working on the numbers, and I would probably hear something on Monday the 5th.  I didn’t want to get too excited, so I didn’t say anything to anyone.  Monday came around and they wanted to hire me on permanently, except they couldn’t get the paperwork through fast enough, so they decided to have me on as a consultant for a while, then bring me on (Presumably for enough time that the headhunter can make his money)  They said to expect a month to three months.  They needed me ASAP.  I really wanted this, so I had to burn the Moody’s bridge and quit with no notice.
+
+I was still new and didn’t really have anything relying on me, so I don’t think it really hurt them.  I hated to do that, but nothing was going to prevent me from getting this BNP spot!   I did negotiate a little.  I was able to start on Tuesday the 13th instead of Monday so I’d have a little more time in Texas for Mario’s wedding.  Everything is working out great.  Now I’m just waiting to convert to a permanent position, then I’ll be at ease, living and working in NYC!  
+
+I didn’t have any related photos, so I’m just posting another of my in Brownsville.  My sister said I look even thinner between these guys for some reason!

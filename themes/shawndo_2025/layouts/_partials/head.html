@@ -1,0 +1,4 @@
+{{ hugo.Generator }}
+<meta charset="utf-8">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ partialCached "head/css.html" . }}

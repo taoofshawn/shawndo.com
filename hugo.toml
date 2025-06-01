@@ -1,0 +1,9 @@
+baseURL      = 'http://shawndo.net/'
+languageCode = 'en-us'
+title        = 'ShawnDo'
+theme        = 'shawndo_2025'
+favicon      = true
+
+[params]
+  siteTagline = "Personal Journal and Rants"
+  datesinlist = true

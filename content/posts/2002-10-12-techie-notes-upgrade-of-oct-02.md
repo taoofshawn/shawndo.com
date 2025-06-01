@@ -1,0 +1,19 @@
+---
+title: 'Techie notes: Upgrade of Oct ’02'
+author: shawndo
+type: post
+date: 2002-10-12T00:00:00+00:00
+url: /2002/10/12/techie-notes-upgrade-of-oct-02
+categories:
+  - Journal
+
+---
+Started on some upgrades I needed to do. :  
+  
+Add an sbus 100mbit card to my sparc 5  
+  
+- added the card fine, and closed the case again, but since this was a network card I was changing, I needed to get on the console to do the changes. I never got around to getting a null modem cable, and for some weirdo reason, I leant out all my sun keyboards and mice. I thought I kept one in case I needed it (like now). So I'll try and borrow a keyboard and mouse from work tonight and return it tomorrow. The whole weirdo sun keyboard and mouse thing chaps my hide!, I can't even plug it into my KVM without a really expensive adapter. Anyway, that project is stalled until I get access to the console.  
+  
+- Install new 120 gb drives and add 'em to the raid setup in my file server.  
+  
+One thing I notice about Linux and other Unices, is that once you set up a box to do a job, its a toaster, you just don't have to mess with it at all, cause it just works. The downside of this, is that when you want to modify or upgrade it, you forget alot of what you did in the first place! My fileserver's setup had a scsi boot disk and 3 IDE disks (2x75's and 1x20 gigger). So when I installed Redhat 7.2 last year sometime, I set up software raid to have spanning device over the 3 IDE disks. I did it with the install GUI, which isn't available after installation. I want to avoid donig a reinstall, so I read all the docs and have a good idea on doing this at the command line. The new setup is going to have the scsi disk as the boot drive and a raid device spanning 4 IDE disks. So I did all the physical stuff, and powered up. At first it didn't detect a boot disk. Ok, so I go into the bios, and notice that for some reason the SCSI disk wasn't set up as the boot drive. So I change this. I also set it to look at the floppy drive for a boot disk as well. (In case I need to boot off the floppy to repair the boot loader) So the next time i boot up, it just clears the screen and displays GRUB. It won't accept any keyboard input. So I'm thinkin I'm screwed. but I know I didn't modify anything on the disks, so what could have happened? So I've been around linux since kernel 1.2.13, and have used lilo the whole time with no problems. Apparently when I installed this box, I chose the GNU GRUB bootloader. Since it was so long ago, I didn't remember anything about it, so I read up on it. Sounds like its was better than lilo, but there is one peculiarity about it. Apparently, on bootup depending on your BIOS boot sequence and the number and type of drives you have, it numbers every drive you have as hd0, hd1, hd2, etc. Also, I tends to put IDE before SCSI. So before I had GRUB set up to boot off of hd3 (the IDE's were hd0-2) Now, since there is a different IDE configuration, those numbers have changed. So it isn't set up to load the correct disk. So I boot off a floppy disk, and change the setting to hd4. Which _should_ work. Once I changed the conf file, I was looking for a way to "activate" the configuration (like you do in lilo) I missed the comments in the conf file that says this isn't necessary and spent about an hour figuring that out. Anyway, I reboot, and the same thing happened. Just stuck at the GRUB screen. So the only other thing I can think of is that since I changed the boot order settings (and I don't remember what they were before) My counting method has gotten all out of whack. So I guess I just have to try hd0, then go up one at a time till i get it. So I ran out of time, and had to come to work. So., we'll see what happens tomorrow.
