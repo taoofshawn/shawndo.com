@@ -18,7 +18,7 @@ jobs:
 
     - name: build and push
       run: |
-        GHREPO=ghcr.io/${{ github.repository_owner }}/${{ github.repository }}
+        GHREPO=ghcr.io/${{ github.repository }}
         TAG=$(date +%Y%m%d_%H%M)
         docker build . --no-cache --file Dockerfile --tag $GHREPO:$TAG
         docker tag $GHREPO:$TAG $GHREPO:latest
