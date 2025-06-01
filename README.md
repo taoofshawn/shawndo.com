@@ -1,5 +1,12 @@
 # shawndo.com hugo blog
 
+### Links
+- [github repo](https://github.com/taoofshawn/shawndo.com)
+- [gh actions](https://github.com/taoofshawn/shawndo.com/actions)
+- [gh container registry](https://github.com/taoofshawn/shawndo.com/pkgs/container/shawndo.com)
+
+### Notes
+
 - [converted](https://gohugo.io/tools/migrations/) from wordpress
 - completely rebuilt the old wordpress theme into a minimal, basic css-only theme. the original theme was a modified from the [Integrati](https://wordpress.org/themes/integrati/) wordpress theme
 - learned css on the fly from youtube videos. mainly:
@@ -12,5 +19,3 @@
     - add to repository secrets (repo > settings > secrets and variables > actions > new repository secret)
         - named `GHCR_TOKEN` to match the .github/workflows/docker-image.yml in this repository
 
-```bash
-```
