@@ -9,6 +9,9 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    env:
+      GHREPO: ghcr.io/${{ github.repository_owner }}/${{ github.repository }}
+      TAG: $(date +%Y%m%d_%H%M)
 
     steps:
     - uses: actions/checkout@v4
@@ -18,8 +21,6 @@ jobs:
 
     - name: build
       run: |
-        GHREPO=ghcr.io/${{ github.repository_owner }}/${{ github.repository }}
-        TAG=$(date +%Y%m%d_%H%M)
         docker build . --no-cache --file Dockerfile --tag $GHREPO:$TAG
         docker tag $GHREPO:$TAG $GHREPO:latest
 
