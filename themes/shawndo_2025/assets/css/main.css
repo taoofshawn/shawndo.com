@@ -30,6 +30,10 @@ img {
   shape-margin: .75rem;
 }
 
+p {
+  margin: 1rem 0;
+}
+
 body {
   width: 100vw;
 }
@@ -184,7 +188,6 @@ header {
 .nav-buttons li {
   display: grid;
   list-style: none;
-
 }
 
 .nav-buttons a {
@@ -204,7 +207,8 @@ header {
   color: var(--inverseText);
 }
 
-.nav-buttons a:active {
+.nav-buttons a:active,
+.nav-buttons .active {
   color: var(--primaryText);
   background-color: var(--inverseText);
 }
@@ -253,13 +257,8 @@ header {
     font-size: .75rem;
   }
 
-  .post-container{
-    padding: 1rem 0 0 0;
-  }
-
   .post-content {
     font-size: 1rem;
-    padding: .5rem 0;
   }
 
 }
