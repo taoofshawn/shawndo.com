@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-08-25T00:00:00+00:00
 url: /2002/08/25/started-on-the-title-image
-categories:
+tags:
   - Journal
 
 ---

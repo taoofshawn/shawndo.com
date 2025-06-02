@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-02-07T00:00:00+00:00
 url: /2006/02/07/long-time-no-journal-hells-kitchen
-categories:
+tags:
   - Journal
 
 ---

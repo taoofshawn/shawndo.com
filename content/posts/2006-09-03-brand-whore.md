@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-09-03T06:23:19+00:00
 url: /2006/09/03/brand-whore
-categories:
+tags:
   - Journal
 
 ---

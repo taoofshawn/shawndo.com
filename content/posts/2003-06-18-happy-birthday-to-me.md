@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-06-18T00:00:00+00:00
 url: /2003/06/18/happy-birthday-to-me
-categories:
+tags:
   - Journal
 
 ---

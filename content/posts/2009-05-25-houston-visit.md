@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2009-05-25T18:08:01+00:00
 url: /2009/05/25/houston-visit
-categories:
+tags:
   - Journal
 
 ---

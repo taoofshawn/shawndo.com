@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2005-08-06T00:00:00+00:00
 url: /2005/08/06/done-with-travellingfor-now
-categories:
+tags:
   - Journal
 
 ---

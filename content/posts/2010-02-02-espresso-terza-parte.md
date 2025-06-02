@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2010-02-03T04:48:18+00:00
 url: /2010/02/02/espresso-terza-parte
-categories:
+tags:
   - Espresso
   - Journal
 

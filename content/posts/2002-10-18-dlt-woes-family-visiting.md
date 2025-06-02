@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-10-18T00:00:00+00:00
 url: /2002/10/18/dlt-woes-family-visiting
-categories:
+tags:
   - Journal
 
 ---

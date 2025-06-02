@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2005-05-16T00:00:00+00:00
 url: /2005/05/16/fads-and-me
-categories:
+tags:
   - Journal
 
 ---

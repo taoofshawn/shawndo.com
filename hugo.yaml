@@ -1,0 +1,8 @@
+baseURL: https://shawndo.com
+languageCode: en-us
+title: ShawnDo
+theme: shawndo_2025
+favicon: true
+
+params:
+  siteTagline: Journal and Esoteric Ramblings

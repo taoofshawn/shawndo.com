@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2011-05-31T00:36:07+00:00
 url: /2011/05/30/soupe-a-l’oignon-day-2
-categories:
+tags:
   - Bouchon
 
 ---

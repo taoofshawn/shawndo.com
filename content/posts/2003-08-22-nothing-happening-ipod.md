@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-08-22T00:00:00+00:00
 url: /2003/08/22/nothing-happening-ipod
-categories:
+tags:
   - Journal
 
 ---

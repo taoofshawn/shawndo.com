@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-09-02T08:10:49+00:00
 url: /2006/09/02/back-to-the-routine
-categories:
+tags:
   - Journal
 
 ---

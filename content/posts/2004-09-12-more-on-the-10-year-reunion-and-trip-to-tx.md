@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2004-09-12T00:00:00+00:00
 url: /2004/09/12/more-on-the-10-year-reunion-and-trip-to-tx
-categories:
+tags:
   - Journal
 
 ---

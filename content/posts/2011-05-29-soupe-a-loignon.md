@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2011-05-29T17:14:22+00:00
 url: /2011/05/29/soupe-a-loignon
-categories:
+tags:
   - Bouchon
 
 ---

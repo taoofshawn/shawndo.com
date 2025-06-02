@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-06-25T00:00:00+00:00
 url: /2006/06/25/birthday-per-se-jewish-food-day
-categories:
+tags:
   - Journal
 
 ---

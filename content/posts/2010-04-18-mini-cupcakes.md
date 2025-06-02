@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2010-04-18T16:20:17+00:00
 url: /2010/04/18/mini-cupcakes
-categories:
+tags:
   - Journal
 
 ---

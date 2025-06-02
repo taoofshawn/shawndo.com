@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-07-29T00:00:00+00:00
 url: /2002/07/29/another-boring-day
-categories:
+tags:
   - Journal
 
 ---

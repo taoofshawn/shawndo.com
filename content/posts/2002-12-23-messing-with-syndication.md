@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-12-23T00:00:00+00:00
 url: /2002/12/23/messing-with-syndication
-categories:
+tags:
   - Journal
 
 ---

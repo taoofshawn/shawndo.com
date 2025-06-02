@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-03-12T04:12:25+00:00
 url: /2008/03/11/getting-out-a-little-with-kc-internal-ramblings
-categories:
+tags:
   - Journal
 
 ---

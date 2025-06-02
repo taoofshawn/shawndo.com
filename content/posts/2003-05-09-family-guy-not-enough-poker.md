@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-05-09T00:00:00+00:00
 url: /2003/05/09/family-guy-not-enough-poker
-categories:
+tags:
   - Journal
 
 ---

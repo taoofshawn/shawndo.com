@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-12-11T00:00:00+00:00
 url: /2002/12/11/condos-in-southborough
-categories:
+tags:
   - Journal
 
 ---

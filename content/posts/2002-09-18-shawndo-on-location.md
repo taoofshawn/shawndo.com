@@ -6,7 +6,7 @@ date: 2002-09-18T00:00:00+00:00
 url: /2002/09/18/shawndo-on-location
 onswipe_thumb:
   - SKIP
-categories:
+tags:
   - Journal
 
 ---

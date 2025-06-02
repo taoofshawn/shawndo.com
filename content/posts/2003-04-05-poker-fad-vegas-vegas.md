@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-04-05T00:00:00+00:00
 url: /2003/04/05/poker-fad-vegas-vegas
-categories:
+tags:
   - Journal
 
 ---

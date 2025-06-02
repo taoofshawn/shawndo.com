@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2007-01-10T15:16:03+00:00
 url: /2007/01/10/watch-freak
-categories:
+tags:
   - Journal
 
 ---

@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-12-31T00:00:00+00:00
 url: /2003/12/31/cooked-a-duck-merry-christmas
-categories:
+tags:
   - Journal
 
 ---

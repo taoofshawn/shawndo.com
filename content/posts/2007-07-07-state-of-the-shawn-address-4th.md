@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2007-07-07T13:13:27+00:00
 url: /2007/07/07/state-of-the-shawn-address-4th
-categories:
+tags:
   - Journal
 
 ---

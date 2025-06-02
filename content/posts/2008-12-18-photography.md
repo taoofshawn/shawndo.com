@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-12-19T04:31:21+00:00
 url: /2008/12/18/photography
-categories:
+tags:
   - Journal
 
 ---

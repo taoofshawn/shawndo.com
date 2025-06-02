@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-08-02T00:00:00+00:00
 url: /2002/08/02/to-school-or-not-to-school
-categories:
+tags:
   - Journal
 
 ---

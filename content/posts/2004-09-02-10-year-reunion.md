@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2004-09-02T00:00:00+00:00
 url: /2004/09/02/10-year-reunion
-categories:
+tags:
   - Journal
 
 ---

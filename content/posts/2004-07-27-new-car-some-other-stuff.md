@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2004-07-27T00:00:00+00:00
 url: /2004/07/27/new-car-some-other-stuff
-categories:
+tags:
   - Journal
 
 ---

@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2009-09-03T13:00:29+00:00
 url: /2009/09/03/peaceful-curtains
-categories:
+tags:
   - Journal
 
 ---

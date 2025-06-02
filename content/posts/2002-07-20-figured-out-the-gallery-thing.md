@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-07-20T00:00:00+00:00
 url: /2002/07/20/figured-out-the-gallery-thing
-categories:
+tags:
   - Journal
 
 ---

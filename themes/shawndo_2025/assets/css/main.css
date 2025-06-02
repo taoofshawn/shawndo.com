@@ -82,7 +82,7 @@ header {
   font-size: 3rem;
 }
 
-.archive-title a {
+.archive-title {
   color: var(--primaryColor);
   font-family: Georgia, 'Times New Roman', Serif;
   font-size: 3rem;
@@ -90,11 +90,20 @@ header {
   text-decoration: none;
 }
 
+.archive-content .archive-group-by-year {
+  font-size: 3rem;
+  font-weight: bold;
+  padding: .5rem 0 0 0;
+  text-align: center;
+}
+
 .archive-content li {
   font-family: monospace;
   font-size: 1.5rem;
-  line-height: 1.5em; 
+  font-weight: normal;
+  line-height: 1.5em;
   list-style: none;
+  text-align: left;
 }
 
 .archive-content a {
@@ -105,12 +114,6 @@ header {
   text-decoration: none;
 }
 
-  .archive-content .archive-year {
-    font-size: 3rem;
-    font-weight: bold;
-    padding: 2rem 0 0 0; 
-    text-align: center;
-  }
 
 /* --------------------------------------------------------- */
 
@@ -268,11 +271,12 @@ header {
     font-size: 1rem;
   }
 
-  .archive-title a {
-    font-size: 1.5rem;
-  }
-
-  .archive-content .archive-year {
+  .archive-title {
     font-size: 2rem;
   }
+
+  .archive-content .archive-group-by-year {
+    font-size: 2rem;
+  }
+
 }

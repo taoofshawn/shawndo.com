@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2009-06-11T03:23:42+00:00
 url: /2009/06/10/equipment-has-arrived
-categories:
+tags:
   - Journal
 
 ---

@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-08-01T00:00:00+00:00
 url: /2002/08/01/new-monitor-in-my-house
-categories:
+tags:
   - Journal
 
 ---

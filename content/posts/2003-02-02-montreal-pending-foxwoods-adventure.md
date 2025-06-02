@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-02-02T00:00:00+00:00
 url: /2003/02/02/montreal-pending-foxwoods-adventure
-categories:
+tags:
   - Journal
 
 ---

@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-10-25T00:00:00+00:00
 url: /2002/10/25/more-training
-categories:
+tags:
   - Journal
 
 ---

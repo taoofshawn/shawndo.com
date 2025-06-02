@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2009-04-06T03:18:42+00:00
 url: /2009/04/05/work-vacation-and-ramen
-categories:
+tags:
   - Journal
 
 ---

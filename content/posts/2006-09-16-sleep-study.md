@@ -6,7 +6,7 @@ date: 2006-09-16T13:43:54+00:00
 draft: true
 private: true
 url: /2006/09/16/sleep-study
-categories:
+tags:
   - Journal
 
 ---

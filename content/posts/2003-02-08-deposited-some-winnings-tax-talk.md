@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-02-08T00:00:00+00:00
 url: /2003/02/08/deposited-some-winnings-tax-talk
-categories:
+tags:
   - Journal
 
 ---

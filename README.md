@@ -19,3 +19,8 @@
     - add to repository secrets (repo > settings > secrets and variables > actions > new repository secret)
         - named `GHCR_TOKEN` to match the .github/workflows/docker-image.yml in this repository
 
+
+### Todo
+
+- improve styling for taxonomy and term
+- css: transition to `display:none`.  `opacity: none` isnt enough. links are still clickable

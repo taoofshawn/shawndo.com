@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2007-03-17T19:12:50+00:00
 url: /2007/03/17/watch-obsession-is-passing-new-new-job
-categories:
+tags:
   - Journal
 
 ---

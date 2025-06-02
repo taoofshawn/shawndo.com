@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-11-03T00:00:00+00:00
 url: /2002/11/03/training-done-back-at-work
-categories:
+tags:
   - Journal
 
 ---

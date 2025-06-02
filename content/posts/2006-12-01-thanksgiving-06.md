@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-12-01T08:41:36+00:00
 url: /2006/12/01/thanksgiving-06
-categories:
+tags:
   - Journal
 
 ---

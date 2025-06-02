@@ -1,0 +1,15 @@
+{{- define "main" }}    <div class="container">
+      <div class="archive-title">{{- .Title -}}</div>
+      <div class="archive-content">{{- .Content -}}
+        {{ range .Pages.GroupByDate "2006" }}
+        <div class="archive-group-by-year">{{ .Key }}
+          <ul>
+            {{- range.Pages }}
+            <li><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time>  <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{- end }}
+          </ul>
+        </div>
+        {{- end -}}
+      </div>
+    </div>
+{{- end -}}

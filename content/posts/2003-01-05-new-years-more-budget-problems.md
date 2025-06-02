@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-01-05T00:00:00+00:00
 url: /2003/01/05/new-years-more-budget-problems
-categories:
+tags:
   - Journal
 
 ---

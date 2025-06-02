@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-07-26T00:00:00+00:00
 url: /2002/07/26/dads-birthday
-categories:
+tags:
   - Journal
 
 ---

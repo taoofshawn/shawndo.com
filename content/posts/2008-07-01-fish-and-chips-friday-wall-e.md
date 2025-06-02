@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-07-02T00:28:23+00:00
 url: /2008/07/01/fish-and-chips-friday-wall-e
-categories:
+tags:
   - Journal
 
 ---

@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-06-27T00:18:04+00:00
 url: /2008/06/26/action-shot
-categories:
+tags:
   - Journal
 
 ---

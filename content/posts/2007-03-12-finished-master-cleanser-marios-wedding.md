@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2007-03-12T04:13:57+00:00
 url: /2007/03/12/finished-master-cleanser-marios-wedding
-categories:
+tags:
   - Journal
 
 ---

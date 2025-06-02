@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-12-07T00:00:00+00:00
 url: /2002/12/07/retraction
-categories:
+tags:
   - Journal
 
 ---

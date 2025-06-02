@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-08-16T00:00:00+00:00
 url: /2002/08/16/shawndo-online
-categories:
+tags:
   - Journal
 
 ---

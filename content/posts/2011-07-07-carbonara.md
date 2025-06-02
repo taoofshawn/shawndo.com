@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2011-07-08T02:51:12+00:00
 url: /2011/07/07/carbonara
-categories:
+tags:
   - Journal
 
 ---

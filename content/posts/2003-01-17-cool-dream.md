@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-01-17T00:00:00+00:00
 url: /2003/01/17/cool-dream
-categories:
+tags:
   - Journal
 
 ---

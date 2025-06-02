@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2006-02-17T00:00:00+00:00
 url: /2006/02/17/hosting-change-the-sag-theatre
-categories:
+tags:
   - Journal
 
 ---

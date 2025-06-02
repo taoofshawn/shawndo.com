@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2007-02-02T06:51:18+00:00
 url: /2007/02/02/master-cleanser-new-watch-photos
-categories:
+tags:
   - Journal
 
 ---

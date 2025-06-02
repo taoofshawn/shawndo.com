@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2005-05-12T00:00:00+00:00
 url: /2005/05/12/semi-social-wine-tasting
-categories:
+tags:
   - Journal
 
 ---

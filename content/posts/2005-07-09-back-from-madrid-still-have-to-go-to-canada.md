@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2005-07-09T00:00:00+00:00
 url: /2005/07/09/back-from-madrid-still-have-to-go-to-canada
-categories:
+tags:
   - Journal
 
 ---

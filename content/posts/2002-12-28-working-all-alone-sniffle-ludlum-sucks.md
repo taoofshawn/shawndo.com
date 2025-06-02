@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2002-12-28T00:00:00+00:00
 url: /2002/12/28/working-all-alone-sniffle-ludlum-sucks
-categories:
+tags:
   - Journal
 
 ---

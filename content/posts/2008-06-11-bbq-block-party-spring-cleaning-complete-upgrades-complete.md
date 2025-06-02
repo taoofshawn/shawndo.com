@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-06-12T00:39:49+00:00
 url: /2008/06/11/bbq-block-party-spring-cleaning-complete-upgrades-complete
-categories:
+tags:
   - Journal
 
 ---

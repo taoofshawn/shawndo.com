@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-04-30T02:57:42+00:00
 url: /2008/04/29/forgot-about-the-freezer
-categories:
+tags:
   - Journal
 
 ---

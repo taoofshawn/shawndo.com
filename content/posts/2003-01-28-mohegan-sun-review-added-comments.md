@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2003-01-28T00:00:00+00:00
 url: /2003/01/28/mohegan-sun-review-added-comments
-categories:
+tags:
   - Journal
 
 ---

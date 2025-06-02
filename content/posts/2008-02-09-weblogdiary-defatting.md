@@ -4,7 +4,7 @@ author: shawndo
 type: post
 date: 2008-02-09T17:13:03+00:00
 url: /2008/02/09/weblogdiary-defatting
-categories:
+tags:
   - Journal
 
 ---
