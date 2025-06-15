@@ -1,13 +1,21 @@
 {{ define "main" }}
   <div class="container">
-    <div class="post-container">
-          <div class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
-          <div class="post-metadata">
-            {{ .Date | time.Format ":date_long" }} ⟐
-            {{ .Date | time.Format ":time_short" }} ⟐
-            {{ with .Params.categories }}{{ delimit . ", " }}{{ end }}
-          </div>
-          <div class="post-content">{{ .Content }}</div>
+        <div class="post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
+        <div class="post-metadata">
+          {{ .Date | time.Format ":date_long" }} ⟐
+          {{ .Date | time.Format ":time_short" }} ⟐
+          {{ with .Params.categories }}{{ delimit . ", " }}{{ end }}
+        </div>
+        <div class="post-content">{{ .Content }}</div>
+    <div class="prevnext">
+      {{- $pages := .CurrentSection.Pages.ByWeight }}
+      {{- with $pages.Prev . }}
+      <a href="{{ .RelPermalink }}">previous</a>
+      {{- end }}
+      {{- with $pages.Next . }}
+      <a href="{{ .RelPermalink }}">next</a>
+      {{- end }}
     </div>
+
   </div>
 {{ end }}
