@@ -26,4 +26,4 @@
 - improve styling for taxonomy and term
 - handle images better. maybe:
     - canvas resizing
-    - lightbox 
+    - ~~lightbox~~

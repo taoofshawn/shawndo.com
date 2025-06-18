@@ -234,16 +234,22 @@ header {
 }
 
 .prevnext {
+  display: flex;
   border-top: 1px solid var(--secondaryColor);
   padding: .5rem 0;
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 1rem;
-  color: var(--primaryColor);  
 }
 
 .prevnext a {
-  color: inherit;
+  color: var(--primaryColor);
+  display: flex;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 1rem;
   text-decoration: none;
+  width: 50%;
+}
+
+.prevnext a:nth-child(2) {
+  justify-content: right;
 }
 
 .prevnext a:first-child::before {
@@ -255,10 +261,6 @@ header {
   padding-right: 1rem;
 }
 
-.prevnext a:nth-child(2) {
-  float: right;
-}
-
 .prevnext a:nth-child(2)::after {
   content: url('/css/right-arrow.svg');
   height: 1.5em;
@@ -267,7 +269,6 @@ header {
   vertical-align: -30%;
   padding-left: 1rem;
 }
-
 
 /* --------------------------------------------------------- */
 
