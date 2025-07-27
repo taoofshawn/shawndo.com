@@ -1,7 +1,7 @@
 ---
 title: About Me
 author: shawndo
-type: page
+type: standalone
 date: 2009-03-23T03:40:11+00:00
 
 ---
