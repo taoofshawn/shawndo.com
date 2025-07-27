@@ -1,7 +1,6 @@
 ---
 title: Oatmeal combo; New site; perspective site
 author: shawndo
-type: post
 date: 2002-12-21T00:00:00+00:00
 url: /2002/12/21/oatmeal-combo-new-site-perspective-site
 tags:

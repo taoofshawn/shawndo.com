@@ -1,7 +1,6 @@
 ---
 title: Sleep Study
 author: shawndo
-type: post
 date: 2006-09-16T13:43:54+00:00
 draft: true
 private: true

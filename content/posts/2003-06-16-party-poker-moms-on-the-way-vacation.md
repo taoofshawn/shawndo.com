@@ -1,7 +1,6 @@
 ---
 title: Party Poker; Mom’s on the way; Vacation
 author: shawndo
-type: post
 date: 2003-06-16T00:00:00+00:00
 url: /2003/06/16/party-poker-moms-on-the-way-vacation
 tags:

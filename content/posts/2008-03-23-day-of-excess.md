@@ -1,7 +1,6 @@
 ---
 title: Day of excess
 author: shawndo
-type: post
 date: 2008-03-24T02:38:00+00:00
 url: /2008/03/23/day-of-excess
 tags:

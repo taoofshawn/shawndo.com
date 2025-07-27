@@ -1,7 +1,6 @@
 ---
 title: Training week
 author: shawndo
-type: post
 date: 2002-10-04T00:00:00+00:00
 url: /2002/10/04/training-week
 tags:

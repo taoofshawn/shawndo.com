@@ -1,7 +1,6 @@
 ---
 title: 'Techie notes: Upgrade of Oct ’02'
 author: shawndo
-type: post
 date: 2002-10-12T00:00:00+00:00
 url: /2002/10/12/techie-notes-upgrade-of-oct-02
 tags:

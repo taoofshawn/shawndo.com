@@ -1,7 +1,6 @@
 ---
 title: First step to braces
 author: shawndo
-type: post
 date: 2003-05-30T00:00:00+00:00
 url: /2003/05/30/first-step-to-braces
 tags:

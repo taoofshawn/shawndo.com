@@ -1,7 +1,6 @@
 ---
 title: On Shakespeare…
 author: shawndo
-type: post
 date: 2008-04-10T03:04:22+00:00
 url: /2008/04/09/on-shakespeare
 tags:

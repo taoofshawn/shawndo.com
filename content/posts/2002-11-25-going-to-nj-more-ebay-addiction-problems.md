@@ -1,7 +1,6 @@
 ---
 title: going to NJ, more ebay addiction problems
 author: shawndo
-type: post
 date: 2002-11-25T00:00:00+00:00
 url: /2002/11/25/going-to-nj-more-ebay-addiction-problems
 tags:

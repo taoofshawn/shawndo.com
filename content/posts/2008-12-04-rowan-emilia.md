@@ -1,7 +1,6 @@
 ---
 title: Rowan Emilia
 author: shawndo
-type: post
 date: 2008-12-04T19:14:04+00:00
 url: /2008/12/04/rowan-emilia
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Airframe movie and Google
 author: shawndo
-type: post
 date: 2002-09-02T00:00:00+00:00
 url: /2002/09/02/airframe-movie-and-google
 tags:

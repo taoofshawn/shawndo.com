@@ -1,7 +1,6 @@
 ---
 title: Back at work
 author: shawndo
-type: post
 date: 2003-07-14T00:00:00+00:00
 url: /2003/07/14/back-at-work
 tags:

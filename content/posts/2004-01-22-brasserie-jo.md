@@ -1,7 +1,6 @@
 ---
 title: Brasserie Jo
 author: shawndo
-type: post
 date: 2004-01-22T00:00:00+00:00
 url: /2004/01/22/brasserie-jo
 tags:

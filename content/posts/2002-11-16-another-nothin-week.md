@@ -1,7 +1,6 @@
 ---
 title: Another nothin week
 author: shawndo
-type: post
 date: 2002-11-16T00:00:00+00:00
 url: /2002/11/16/another-nothin-week
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Birthday; Per Se; Jewish Food day
 author: shawndo
-type: post
 date: 2006-06-25T00:00:00+00:00
 url: /2006/06/25/birthday-per-se-jewish-food-day
 tags:

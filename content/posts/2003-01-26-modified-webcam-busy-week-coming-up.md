@@ -1,7 +1,6 @@
 ---
 title: Modified Webcam; Busy week coming up
 author: shawndo
-type: post
 date: 2003-01-26T00:00:00+00:00
 url: /2003/01/26/modified-webcam-busy-week-coming-up
 tags:

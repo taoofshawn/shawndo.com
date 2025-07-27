@@ -1,7 +1,6 @@
 ---
 title: Back in the People’s Republic again
 author: shawndo
-type: post
 date: 2002-09-29T00:00:00+00:00
 url: /2002/09/29/back-in-the-peoples-republic-again
 tags:

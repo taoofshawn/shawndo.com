@@ -1,7 +1,6 @@
 ---
 title: Same ol’ Christmas
 author: shawndo
-type: post
 date: 2002-12-25T00:00:00+00:00
 url: /2002/12/25/same-ol-christmas
 tags:

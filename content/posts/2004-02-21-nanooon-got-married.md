@@ -1,7 +1,6 @@
 ---
 title: Nanooon got married!
 author: shawndo
-type: post
 date: 2004-02-21T00:00:00+00:00
 url: /2004/02/21/nanooon-got-married
 tags:

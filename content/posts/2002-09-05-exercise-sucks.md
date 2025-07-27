@@ -1,7 +1,6 @@
 ---
 title: Exercise sucks!
 author: shawndo
-type: post
 date: 2002-09-05T00:00:00+00:00
 url: /2002/09/05/exercise-sucks
 tags:

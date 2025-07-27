@@ -1,7 +1,6 @@
 ---
 title: Website Overhaul
 author: shawndo
-type: post
 date: 2006-08-25T21:35:23+00:00
 url: /2006/08/25/website-overhaul
 tags:

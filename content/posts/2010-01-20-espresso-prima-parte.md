@@ -1,7 +1,6 @@
 ---
 title: Espresso – Prima Parte
 author: shawndo
-type: post
 date: 2010-01-21T02:56:07+00:00
 url: /2010/01/20/espresso-prima-parte
 tags:

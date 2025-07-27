@@ -1,7 +1,6 @@
 ---
 title: My Cookware’s TV debut
 author: shawndo
-type: post
 date: 2006-09-04T03:17:25+00:00
 url: /2006/09/03/cookware-qvc
 tags:

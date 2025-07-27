@@ -1,7 +1,6 @@
 ---
 title: Juice done; Ramen day
 author: shawndo
-type: post
 date: 2008-03-09T04:20:51+00:00
 url: /2008/03/08/juice-done-ramen-day
 tags:

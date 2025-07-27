@@ -1,7 +1,6 @@
 ---
 title: 'Techie Notes: part deux'
 author: shawndo
-type: post
 date: 2002-10-14T00:00:00+00:00
 url: /2002/10/14/techie-notes-part-deux
 tags:

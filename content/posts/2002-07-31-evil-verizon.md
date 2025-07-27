@@ -1,7 +1,6 @@
 ---
 title: Evil Verizon
 author: shawndo
-type: post
 date: 2002-07-31T00:00:00+00:00
 url: /2002/07/31/evil-verizon
 tags:

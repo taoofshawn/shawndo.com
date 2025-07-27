@@ -1,7 +1,6 @@
 ---
 title: Rowan-mania!
 author: shawndo
-type: post
 date: 2009-11-25T02:22:36+00:00
 url: /2009/11/24/rowan-mania
 tags:

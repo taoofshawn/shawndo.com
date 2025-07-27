@@ -1,7 +1,6 @@
 ---
 title: Spendin too much
 author: shawndo
-type: post
 date: 2002-10-11T00:00:00+00:00
 url: /2002/10/11/spendin-too-much
 tags:

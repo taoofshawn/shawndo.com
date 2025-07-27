@@ -1,7 +1,6 @@
 ---
 title: Internet Musings..
 author: shawndo
-type: post
 date: 2002-08-18T00:00:00+00:00
 url: /2002/08/18/internet-musings
 tags:

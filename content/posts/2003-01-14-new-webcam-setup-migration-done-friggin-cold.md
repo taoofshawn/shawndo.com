@@ -1,7 +1,6 @@
 ---
 title: 'New Webcam setup!  Migration done: Friggin COLD'
 author: shawndo
-type: post
 date: 2003-01-14T01:00:00+00:00
 url: /2003/01/14/new-webcam-setup-migration-done-friggin-cold
 tags:

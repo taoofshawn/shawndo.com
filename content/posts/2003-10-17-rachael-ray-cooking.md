@@ -1,7 +1,6 @@
 ---
 title: Rachael Ray; Cooking
 author: shawndo
-type: post
 date: 2003-10-17T00:00:00+00:00
 url: /2003/10/17/rachael-ray-cooking
 tags:

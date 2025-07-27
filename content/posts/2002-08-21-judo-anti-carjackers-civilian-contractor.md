@@ -1,7 +1,6 @@
 ---
 title: Judo anti-carjackers, Civilian Contractor
 author: shawndo
-type: post
 date: 2002-08-21T00:00:00+00:00
 url: /2002/08/21/judo-anti-carjackers-civilian-contractor
 tags:

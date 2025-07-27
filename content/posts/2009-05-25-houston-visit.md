@@ -1,7 +1,6 @@
 ---
 title: Houston Visit; Aperture 2 vs Lightroom 2 Decision
 author: shawndo
-type: post
 date: 2009-05-25T18:08:01+00:00
 url: /2009/05/25/houston-visit
 tags:

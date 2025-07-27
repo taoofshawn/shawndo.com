@@ -1,7 +1,6 @@
 ---
 title: Wireless at home
 author: shawndo
-type: post
 date: 2002-08-19T00:00:00+00:00
 url: /2002/08/19/wireless-at-home
 tags:

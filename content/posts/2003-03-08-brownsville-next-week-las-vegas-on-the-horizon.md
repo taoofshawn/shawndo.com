@@ -1,7 +1,6 @@
 ---
 title: Brownsville next week; Las Vegas on the Horizon
 author: shawndo
-type: post
 date: 2003-03-08T00:00:00+00:00
 url: /2003/03/08/brownsville-next-week-las-vegas-on-the-horizon
 tags:

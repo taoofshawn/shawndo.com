@@ -1,7 +1,6 @@
 ---
 title: Apple Season! Small lighting rig
 author: shawndo
-type: post
 date: 2009-11-10T04:22:31+00:00
 url: /2009/11/09/apple-season-small-lighting-rig
 tags:

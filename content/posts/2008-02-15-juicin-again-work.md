@@ -1,7 +1,6 @@
 ---
 title: Juicin’ again; Work
 author: shawndo
-type: post
 date: 2008-02-16T03:51:28+00:00
 url: /2008/02/15/juicin-again-work
 tags:

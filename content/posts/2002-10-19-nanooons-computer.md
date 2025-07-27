@@ -1,7 +1,6 @@
 ---
 title: Nanooon’s computer
 author: shawndo
-type: post
 date: 2002-10-19T00:00:00+00:00
 url: /2002/10/19/nanooons-computer
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Poker Hobby
 author: shawndo
-type: post
 date: 2003-05-04T00:00:00+00:00
 url: /2003/05/04/poker-hobby
 tags:

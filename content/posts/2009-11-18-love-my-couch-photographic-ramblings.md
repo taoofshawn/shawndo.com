@@ -1,7 +1,6 @@
 ---
 title: Love my couch; Photographic ramblings
 author: shawndo
-type: post
 date: 2009-11-18T05:25:41+00:00
 url: /2009/11/18/love-my-couch-photographic-ramblings
 tags:

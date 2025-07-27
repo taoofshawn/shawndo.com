@@ -1,7 +1,6 @@
 ---
 title: Don’t know about the built in articles module
 author: shawndo
-type: post
 date: 2002-07-19T00:00:00+00:00
 url: /2002/07/19/dont-know-about-the-built-in-articles-module
 tags:

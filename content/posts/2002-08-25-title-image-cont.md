@@ -1,7 +1,6 @@
 ---
 title: Title image cont.
 author: shawndo
-type: post
 date: 2002-08-28T00:00:00+00:00
 url: /2002/08/25/title-image-cont
 tags:

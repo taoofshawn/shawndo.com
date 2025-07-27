@@ -1,7 +1,6 @@
 ---
 title: Rack drama, evil weather
 author: shawndo
-type: post
 date: 2002-12-06T00:00:00+00:00
 url: /2002/12/06/rack-drama-evil-weather
 tags:

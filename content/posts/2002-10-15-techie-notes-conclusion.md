@@ -1,7 +1,6 @@
 ---
 title: 'Techie notes: Conclusion'
 author: shawndo
-type: post
 date: 2002-10-15T00:00:00+00:00
 url: /2002/10/15/techie-notes-conclusion
 tags:

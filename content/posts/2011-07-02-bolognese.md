@@ -1,7 +1,6 @@
 ---
 title: Bolognese
 author: shawndo
-type: post
 date: 2011-07-03T02:42:07+00:00
 url: /2011/07/02/bolognese
 tags:

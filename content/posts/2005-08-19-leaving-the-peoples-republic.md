@@ -1,7 +1,6 @@
 ---
 title: Leaving the People’s Republic….
 author: shawndo
-type: post
 date: 2005-08-19T00:00:00+00:00
 url: /2005/08/19/leaving-the-peoples-republic
 tags:

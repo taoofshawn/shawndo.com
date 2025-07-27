@@ -1,7 +1,6 @@
 ---
 title: Online Migration
 author: shawndo
-type: post
 date: 2004-04-19T00:00:00+00:00
 url: /2004/04/19/online-migration
 tags:

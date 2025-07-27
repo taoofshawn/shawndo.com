@@ -1,7 +1,6 @@
 ---
 title: Christmas and New Year’s
 author: shawndo
-type: post
 date: 2007-01-02T09:14:10+00:00
 url: /2007/01/02/christmas-and-new-year’s
 tags:

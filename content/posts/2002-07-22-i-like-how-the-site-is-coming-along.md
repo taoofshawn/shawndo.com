@@ -1,7 +1,6 @@
 ---
 title: I like how the site is coming along
 author: shawndo
-type: post
 date: 2002-07-22T00:00:00+00:00
 url: /2002/07/22/i-like-how-the-site-is-coming-along
 tags:

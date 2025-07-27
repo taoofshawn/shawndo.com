@@ -1,7 +1,6 @@
 ---
 title: Texas Vacation; Marriage all around
 author: shawndo
-type: post
 date: 2006-07-19T23:14:25+00:00
 url: /2006/07/19/texas-vacation
 tags:

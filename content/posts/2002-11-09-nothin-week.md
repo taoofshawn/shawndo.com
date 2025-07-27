@@ -1,7 +1,6 @@
 ---
 title: Nothin week
 author: shawndo
-type: post
 date: 2002-11-09T00:00:00+00:00
 url: /2002/11/09/nothin-week
 tags:

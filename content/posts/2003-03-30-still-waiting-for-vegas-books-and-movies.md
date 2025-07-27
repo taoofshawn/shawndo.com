@@ -1,7 +1,6 @@
 ---
 title: 'Still waiting for Vegas;  Books and Movies'
 author: shawndo
-type: post
 date: 2003-03-30T00:00:00+00:00
 url: /2003/03/30/still-waiting-for-vegas-books-and-movies
 tags:

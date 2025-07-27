@@ -1,7 +1,6 @@
 ---
 title: Website face lift coming; Soundwave!
 author: shawndo
-type: post
 date: 2009-02-18T02:44:22+00:00
 url: /2009/02/17/website-face-lift-coming
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Off to Madrid; Off to Canada
 author: shawndo
-type: post
 date: 2005-05-18T00:00:00+00:00
 url: /2005/05/18/off-to-madrid-off-to-canada
 tags:

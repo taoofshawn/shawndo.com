@@ -1,7 +1,6 @@
 ---
 title: Timeline movie coming out
 author: shawndo
-type: post
 date: 2002-07-27T00:00:00+00:00
 url: /2002/07/27/timeline-movie-coming-out
 tags:

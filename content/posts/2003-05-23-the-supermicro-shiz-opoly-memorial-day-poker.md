@@ -1,7 +1,6 @@
 ---
 title: The Supermicro Shiz-opoly; Memorial Day Poker
 author: shawndo
-type: post
 date: 2003-05-23T00:00:00+00:00
 url: /2003/05/23/the-supermicro-shiz-opoly-memorial-day-poker
 tags:

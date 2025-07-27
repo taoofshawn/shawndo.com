@@ -1,7 +1,6 @@
 ---
 title: Espresso – Seconda Parte
 author: shawndo
-type: post
 date: 2010-01-23T04:27:38+00:00
 url: /2010/01/22/espresso-seconda-parte
 tags:

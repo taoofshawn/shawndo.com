@@ -1,7 +1,6 @@
 ---
 title: Casino story; Brownsville still sucks
 author: shawndo
-type: post
 date: 2003-03-18T00:00:00+00:00
 url: /2003/03/18/casino-story-brownsville-still-sucks
 tags:

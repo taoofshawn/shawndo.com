@@ -1,7 +1,6 @@
 ---
 title: More on NY/NJ
 author: shawndo
-type: post
 date: 2005-09-04T00:00:00+00:00
 url: /2005/09/04/more-on-nynj
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Bouley; Suit; Changes coming
 author: shawndo
-type: post
 date: 2008-06-06T03:47:52+00:00
 url: /2008/06/05/bouley-changes-coming
 tags:

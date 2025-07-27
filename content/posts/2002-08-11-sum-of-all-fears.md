@@ -1,7 +1,6 @@
 ---
 title: Sum of all Fears
 author: shawndo
-type: post
 date: 2002-08-11T00:00:00+00:00
 url: /2002/08/11/sum-of-all-fears
 tags:

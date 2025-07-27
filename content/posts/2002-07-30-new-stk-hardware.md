@@ -1,7 +1,6 @@
 ---
 title: New STK Hardware
 author: shawndo
-type: post
 date: 2002-07-30T00:00:00+00:00
 url: /2002/07/30/new-stk-hardware
 tags:

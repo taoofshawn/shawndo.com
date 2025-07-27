@@ -1,7 +1,6 @@
 ---
 title: New home in the West Village
 author: shawndo
-type: post
 date: 2008-12-28T05:07:03+00:00
 url: /2008/12/28/new-home-in-the-west-village
 tags:

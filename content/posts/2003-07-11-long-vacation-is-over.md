@@ -1,7 +1,6 @@
 ---
 title: Long Vacation is over.
 author: shawndo
-type: post
 date: 2003-07-11T00:00:00+00:00
 url: /2003/07/11/long-vacation-is-over
 tags:

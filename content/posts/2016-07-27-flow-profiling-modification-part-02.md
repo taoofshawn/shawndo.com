@@ -1,7 +1,6 @@
 ---
 title: Flow Profiling Modification – Part 02
 author: shawndo
-type: post
 date: 2016-07-27T19:42:41+00:00
 url: /2016/07/27/flow-profiling-modification-part-02
 tags:

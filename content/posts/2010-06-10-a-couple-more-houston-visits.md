@@ -1,7 +1,6 @@
 ---
 title: A couple more Houston visits
 author: shawndo
-type: post
 date: 2010-06-11T02:29:34+00:00
 url: /2010/06/10/a-couple-more-houston-visits
 tags:

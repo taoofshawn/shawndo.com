@@ -1,7 +1,6 @@
 ---
 title: More on the condos; Sick over the weekend
 author: shawndo
-type: post
 date: 2002-12-16T00:00:00+00:00
 url: /2002/12/16/more-on-the-condos-sick-over-the-weekend
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Real Estate in Brownsville
 author: shawndo
-type: post
 date: 2002-09-01T00:00:00+00:00
 url: /2002/09/01/real-estate-in-brownsville
 tags:

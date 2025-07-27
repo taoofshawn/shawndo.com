@@ -1,7 +1,6 @@
 ---
 title: Last trip to Mohegan for a while….maybe..
 author: shawndo
-type: post
 date: 2003-02-12T00:00:00+00:00
 url: /2003/02/12/last-trip-to-mohegan-for-a-whilemaybe
 tags:

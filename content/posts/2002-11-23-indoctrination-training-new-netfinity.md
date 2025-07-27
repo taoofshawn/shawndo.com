@@ -1,7 +1,6 @@
 ---
 title: Indoctrination training, new netfinity
 author: shawndo
-type: post
 date: 2002-11-23T00:00:00+00:00
 url: /2002/11/23/indoctrination-training-new-netfinity
 tags:

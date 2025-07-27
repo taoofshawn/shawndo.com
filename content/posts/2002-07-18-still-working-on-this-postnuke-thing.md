@@ -1,7 +1,6 @@
 ---
 title: Still working on this postnuke thing
 author: shawndo
-type: post
 date: 2002-07-18T00:00:00+00:00
 url: /2002/07/18/still-working-on-this-postnuke-thing
 tags:

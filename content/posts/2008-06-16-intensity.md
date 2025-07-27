@@ -1,7 +1,6 @@
 ---
 title: Intensity
 author: shawndo
-type: post
 date: 2008-06-16T23:39:17+00:00
 url: /2008/06/16/intensity
 tags:

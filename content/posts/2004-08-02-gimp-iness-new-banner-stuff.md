@@ -1,7 +1,6 @@
 ---
 title: 'GIMP-iness!  New banner stuff'
 author: shawndo
-type: post
 date: 2004-08-02T00:00:00+00:00
 url: /2004/08/02/gimp-iness-new-banner-stuff
 tags:

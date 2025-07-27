@@ -1,7 +1,6 @@
 ---
 title: Apple-ification; Where to blog from here
 author: shawndo
-type: post
 date: 2007-11-07T04:48:53+00:00
 url: /2007/11/07/apple-ification-where-to-blog-from-here
 tags:

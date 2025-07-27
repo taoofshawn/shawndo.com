@@ -1,7 +1,6 @@
 ---
 title: IMAP anyone?
 author: shawndo
-type: post
 date: 2002-08-03T00:00:00+00:00
 url: /2002/08/03/imap-anyone
 tags:

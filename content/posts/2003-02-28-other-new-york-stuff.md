@@ -1,7 +1,6 @@
 ---
 title: Other New York stuff
 author: shawndo
-type: post
 date: 2003-02-28T00:00:00+00:00
 url: /2003/02/28/other-new-york-stuff
 tags:

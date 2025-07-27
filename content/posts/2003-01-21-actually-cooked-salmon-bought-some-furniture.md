@@ -1,7 +1,6 @@
 ---
 title: Actually cooked salmon; Bought some furniture
 author: shawndo
-type: post
 date: 2003-01-21T00:00:00+00:00
 url: /2003/01/21/actually-cooked-salmon-bought-some-furniture
 tags:
