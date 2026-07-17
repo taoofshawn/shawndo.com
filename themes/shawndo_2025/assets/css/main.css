@@ -3,6 +3,8 @@
   --secondaryColor: #333;
   --darkText: #000;
   --lightText: #fff;
+  --lightTextMuted: #D4A0CA;
+  --metadataColor: #666;
 
   --bar-width: 3rem;
   --bar-height: .5rem;
@@ -43,7 +45,7 @@ header {
 }
 
 .site-title a {
-  color: var(--primaryColor);
+  color: var(--lightTextMuted);
   font-family: Georgia, 'Times New Roman', Serif;
   font-size: 3rem;
   font-weight: bold;
@@ -67,7 +69,7 @@ header {
 }
 
 .post-metadata {
-  color: #999;
+  color: var(--metadataColor);
   font-size: 1.25rem;
 }
 

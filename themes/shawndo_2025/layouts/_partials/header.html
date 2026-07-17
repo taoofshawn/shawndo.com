@@ -2,8 +2,8 @@
       <div class="site-title"><a href="/">{{ site.Title }}</a></div>
       <div class="site-tagline">{{ .Site.Params.siteTagline }}</div>
 
-      <label class="hamburger-menu">
-        <input type="checkbox" />
+      <label class="hamburger-menu" aria-label="Toggle navigation menu">
+        <input type="checkbox" aria-label="Toggle navigation" />
       </label>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
     </div>

@@ -1,6 +1,7 @@
-{{ hugo.Generator }}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ .Description | default (.Summary | plainify | truncate 160) | default site.Params.siteDescription | default site.Params.siteTagline }}">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ hugo.Generator }}
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/lightboxjs.html" . }}
