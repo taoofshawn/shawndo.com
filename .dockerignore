@@ -1,0 +1,8 @@
+.git/
+.gitignore
+README.md
+.hugo_build.lock
+Dockerfile
+.dockerignore
+public/
+resources/
