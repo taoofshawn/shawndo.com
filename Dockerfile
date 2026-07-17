@@ -2,11 +2,12 @@ FROM alpine:3.21 AS builder
 
 WORKDIR /src
 
-# Install Hugo and image optimization tools
+# Install Hugo, image optimization tools, and Python3 for dimension injection
 RUN apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community \
     hugo \
     jpegoptim \
-    optipng
+    optipng \
+    python3
 
 COPY . .
 
@@ -21,6 +22,9 @@ RUN hugo --minify
 
 # Add loading="lazy" to all content images in HTML output
 RUN find public -name '*.html' -exec sed -i 's|<img |<img loading="lazy" |g' {} +
+
+# Inject width/height into images to prevent Cumulative Layout Shift
+RUN python3 scripts/add-img-dimensions.py public
 
 # Pre-compress text assets for nginx gzip_static
 RUN find public -type f \( -name '*.html' -o -name '*.css' -o -name '*.js' \) -exec gzip -kf {} +
