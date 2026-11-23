@@ -29,6 +29,6 @@ RUN python3 scripts/add-img-dimensions.py public
 # Pre-compress text assets for nginx gzip_static
 RUN find public -type f \( -name '*.html' -o -name '*.css' -o -name '*.js' \) -exec gzip -kf {} +
 
-FROM nginx:1.27-alpine AS runner
+FROM nginx:1.31.9-alpine AS runner
 COPY --from=builder /src/public /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/nginx.conf
